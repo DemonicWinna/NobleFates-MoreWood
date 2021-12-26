@@ -1,0 +1,10 @@
+{
+	id Oct.Foliage.EvergreenTree
+	type FoliageType
+	healthPerCutItem = .03
+	}
+	{
+	id Oct.Foliage.OakTree
+	type FoliageType
+	healthPerCutItem = .03
+	}
